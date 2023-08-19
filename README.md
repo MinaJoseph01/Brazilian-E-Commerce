@@ -1,4 +1,4 @@
-
+Barazian E-commerce Database
 Barazian E-commerce Database
 Welcome to the Barazian E-commerce Database, a comprehensive collection of over 100,000 orders spanning a three-year period. This database offers a wealth of information for anyone interested in understanding the trends and patterns of the Barazian e-commerce market.
 ![barzlian 2](https://github.com/MinaJoseph01/Brazilian-E-Commerce/assets/142174893/f1661b19-3d3f-4b66-a041-799e953d6806)
